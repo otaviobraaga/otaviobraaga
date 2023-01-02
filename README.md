@@ -1,4 +1,3 @@
-# 💫 About Me:
 Ola, me chamo Otávio, e minha meta é atuar como Desenvolvedor Web Júnior com ênfase em Back-end. Atualmente, meu foco principal é o ecossistema do Javascript.  
 
 
